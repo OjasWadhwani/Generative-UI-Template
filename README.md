@@ -5,9 +5,10 @@ A Generative UI portfolio template made with PixiJS and GSAP.
 
 > The project includes a Generative art template with WebGL powered background animation using [PixiJS](https://www.pixijs.com/), a 2D webGL renderer javascript library and [GSAP](https://greensock.com/gsap/), an svg animation javascript library.
 
-### This project uses [webpack](https://webpack.js.org/) as a bundler for optimization, clone the repo, build it and run on a local server.
+This project uses [npm](https://www.npmjs.com/) as node package manager and [webpack](https://webpack.js.org/) as a Javascript module bundler for optimization. To execute on your local machine, clone the repo, install the dependencies, build it and run on a local server.
 
 ```
+npm i
 npm run build
 npm run start:dev
 ```
